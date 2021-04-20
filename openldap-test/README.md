@@ -13,8 +13,9 @@ This image is used by system admin in the CompSoc committee to help them develop
 ## Usage
 
 ```
-docker pull nuigcompsoc/test-openldap
-docker run --rm -p 10389:10389 -p 10636:10636 nuigcompsoc/test-openldap
+// docker pull nuigcompsoc/test-openldap
+// docker run --rm -p 10389:10389 -p 10636:10636 nuigcompsoc/test-openldap
+docker-compose up --build
 ```
 
 ## Exposed ports
