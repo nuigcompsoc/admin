@@ -1,0 +1,20 @@
+dn: uid=hsimpson,ou=people,dc=compsoc,dc=ie
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: posixAccount
+cn: Homer Simpson
+sn: Simpson
+employeeNumber: 18000002
+givenName: Homer
+mobile: 0919134327
+mail: hsimpson@notarealemail.com
+ou: people
+uid: hsimpson
+userPassword: {SSHA}C0TL3FnKl2qZGrGMiOLDiQIcluxLG3AB
+uidNumber: 10002
+homeDirectory: /home/users/hsimpson
+gidNumber: 100
+loginShell: /bin/bash
+gecos: Homer Simpson

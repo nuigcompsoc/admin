@@ -1,0 +1,5 @@
+dn: ou=groups,dc=compsoc,dc=ie
+objectClass: top
+objectClass: organizationalUnit
+description: CompSoc Groups
+ou: groups

@@ -1,0 +1,20 @@
+dn: uid=bsimpson,ou=people,dc=compsoc,dc=ie
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: posixAccount
+cn: Bart Simpson
+sn: Simpson
+employeeNumber: 18000000
+givenName: Bart
+mobile: 0919139333
+mail: bsimpson@notarealemail.com
+ou: people
+uid: bsimpson
+userPassword: {SSHA}uxSSh/FA7zjyfVpHzJ5nsnure8PqV2uN
+uidNumber: 10000
+homeDirectory: /home/users/bsimpson
+gidNumber: 100
+loginShell: /bin/bash
+gecos: Bart Simpson

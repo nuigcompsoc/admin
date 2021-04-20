@@ -1,0 +1,5 @@
+dn: ou=people,dc=compsoc,dc=ie
+objectClass: top
+objectClass: organizationalUnit
+description: CompSoc Members
+ou: people

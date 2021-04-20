@@ -1,0 +1,20 @@
+dn: uid=msimpson,ou=people,dc=compsoc,dc=ie
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: posixAccount
+cn: Marge Simpson
+sn: Simpson
+employeeNumber: 18000001
+givenName: Marge
+mobile: 0919101389
+mail: msimpson@notarealemail.com
+ou: people
+uid: msimpson
+userPassword: {SSHA}/ihtaAWrx/BClrGurc+EQS1hSa0dEaYz
+uidNumber: 10001
+homeDirectory: /home/users/msimpson
+gidNumber: 100
+loginShell: /bin/bash
+gecos: Marge Simpson
